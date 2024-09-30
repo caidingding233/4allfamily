@@ -61,7 +61,7 @@ Please read the [CONTRIBUTING](http://localhost) guide for more details on our c
 
 ## Community & Support
 
-* **Slack**: Join our [Slack community](https://s.team) for real-time support and collaboration.
+* **Slack**: Join our [Steam community](https://s.team) for real-time support and collaboration.
 * **GitHub Discussions**: Share ideas or ask for help in [Discussions](https://github.com/caidingding233/4allfamily/discussions).
 
 * * *
